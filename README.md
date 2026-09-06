@@ -1,1 +1,2 @@
-# Pressure-jump-AHK-macro-Prison-Life-
+A macro to automatically pressure jump
+Instructions in script
